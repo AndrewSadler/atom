@@ -1,0 +1,16 @@
+"*":
+  "exception-reporting":
+    userId: "68e2f78d-0970-f23b-39f2-54a02cb1b156"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 12
+  "go-plus":
+    goPath: "/Users/andy/go"
+  "git-diff": {}
